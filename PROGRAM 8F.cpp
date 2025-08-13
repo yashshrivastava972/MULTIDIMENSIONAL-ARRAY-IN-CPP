@@ -1,3 +1,10 @@
+// NAME: YASH SHRIVASTAVA
+// PRN: 24070123137
+// BATCH: E&TC-B2
+// TITLE: COMPARE ELEMENTS OF FIRST ROW TO THE SECOND ROW (EXPERIMENT: 8F)
+
+// CODE: 
+
 #include <iostream>
 using namespace std;
 
@@ -28,12 +35,12 @@ int main() {
 
 // OUTPUT:
 
-Enter 3x3 matrix:
-1 2 3 
-1 5 3
-4 5 6
+// Enter 3x3 matrix:
+// 1 2 3 
+// 1 5 3
+// 4 5 6
 
-Comparing first row with second row:
-Element 1: Equal (1)
-Element 2: Not Equal (2 vs 5)
-Element 3: Equal (3)
+// Comparing first row with second row:
+// Element 1: Equal (1)
+// Element 2: Not Equal (2 vs 5)
+// Element 3: Equal (3)
