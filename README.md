@@ -1,4 +1,4 @@
-# Aim: To study and implement C++ 2D Array – Matrices.
+# Aim: To Study and Implement C++ 2D Array – Matrices.
 
 ## Tool: VS CODE.
 
