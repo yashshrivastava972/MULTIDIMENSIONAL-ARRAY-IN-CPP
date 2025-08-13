@@ -1,3 +1,10 @@
+// NAME: YASH SHRIVASTAVA
+// PRN: 24070123137
+// BATCH: E&TC-B2
+// TITLE: DIAGONAL ADDITION OF MATRIX (EXPERIMENT: 8D)
+
+// CODE: 
+
 #include <iostream>
 using namespace std;
 
@@ -23,9 +30,9 @@ int main() {
 
 // OUTPUT:
 
-Enter 3x3 matrix:
-1 2 3 
-4 5 6 
-7 8 9
+// Enter 3x3 matrix:
+// 1 2 3 
+// 4 5 6 
+// 7 8 9
 
-Sum of main diagonal elements: 15
+// Sum of main diagonal elements: 15
