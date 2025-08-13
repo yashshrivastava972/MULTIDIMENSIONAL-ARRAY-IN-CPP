@@ -1,3 +1,10 @@
+// NAME: YASH SHRIVASTAVA
+// PRN: 24070123137
+// BATCH: E&TC-B2
+// TITLE: TRANSPOSE OF MATRIX (EXPERIMENT: 8E)
+
+// CODE: 
+
 #include <iostream>
 using namespace std;
 
@@ -33,12 +40,12 @@ int main() {
 
 // OUTPUT:
 
-Enter 3x3 matrix:
-1 2 3
-4 5 6
-7 8 9
+// Enter 3x3 matrix:
+// 1 2 3
+// 4 5 6
+// 7 8 9
 
-Transpose of matrix:
-1 4 7 
-2 5 8 
-3 6 9 
+// Transpose of matrix:
+// 1 4 7 
+// 2 5 8 
+// 3 6 9 
