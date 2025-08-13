@@ -1,7 +1,8 @@
 # Aim: To study and implement C++ 2D Array – Matrices.
 
-## Theory:
+## Tool: VS CODE.
 
+## Theory:
 What Is a 2D Array?
 
 A 2D array is essentially an array of arrays. It represents data in a matrix format—rows and columns—ideal for grid-based problems like image processing, game boards, or mathematical matrices.
@@ -64,7 +65,7 @@ Games & Simulations: Chessboard, Sudoku grids.
 Image Processing: Representing pixels as matrix values.
 
 7. Example: Matrix Addition
-8. #include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
