@@ -65,6 +65,7 @@ Games & Simulations: Chessboard, Sudoku grids.
 Image Processing: Representing pixels as matrix values.
 
 7. Example: Matrix Addition
+
 #include <iostream>
 using namespace std;
 
@@ -92,6 +93,7 @@ int main() {
         cout << endl;
     }
 }
+## Algorithms:
 
 ## Conclusion:
 Studying and implementing 2D arrays in C++ is essential for handling tabular and matrix-based data.
